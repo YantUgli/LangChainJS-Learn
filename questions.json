@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Apa tugas utama seorang guru di jenjang SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa persyaratan untuk menjadi seorang guru di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana proses seleksi atau perekrutan guru di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa peran guru dalam membimbing dan mengajar siswa di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana cara guru menghadapi tantangan dalam mengajar di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa yang dibutuhkan agar menjadi guru yang sukses di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat memotivasi siswa untuk belajar?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa yang harus dilakukan guru jika ada konflik antara siswa di kelas?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat membantu siswa yang mengalami kesulitan belajar?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa strategi efektif yang biasa digunakan guru di SMA dalam mengajar?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa yang harus dilakukan guru jika ada siswa yang mengalami perilaku menyimpang di sekolah?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat berkolaborasi dengan orang tua siswa?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa yang perlu dipersiapkan seorang guru sebelum memulai karir mengajar di SMA?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat menjaga disiplin di kelas?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat memanfaatkan teknologi dalam proses belajar mengajar?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa yang harus dilakukan guru jika merasa kesulitan mengajar suatu materi di kelas?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat memberikan dukungan kepada siswa dalam menghadapi ujian?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Apa langkah-langkah yang harus diambil guru jika ada siswa yang terlibat dalam tindakan bullying?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana guru di SMA dapat mengembangkan keterampilan kepemimpinan di kalangan siswa?",
+      "role": "guru",
+      "jenjang": "SMA"
+    },
+    {
+      "question": "Bagaimana seorang guru di SMA dapat menyeimbangkan antara tugas mengajar dan tugas administratif?",
+      "role": "guru",
+      "jenjang": "SMA"
+    }
+  ]
+}
