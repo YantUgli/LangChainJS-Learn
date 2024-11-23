@@ -1,104 +1,199 @@
 {
   "questions": [
     {
-      "question": "Apa tugas utama seorang guru di jenjang SMA?",
+      "question": "Berapa lama proses pengajuan cuti bagi guru di tingkat SD?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SD"
     },
     {
-      "question": "Apa persyaratan untuk menjadi seorang guru di SMA?",
+      "question": "Apakah seorang guru di tingkat SMP wajib memiliki sertifikasi pendidikan?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMP"
     },
     {
-      "question": "Bagaimana proses seleksi atau perekrutan guru di SMA?",
+      "question": "Bagaimana cara mengelola siswa yang sulit dalam kelas?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMA"
     },
     {
-      "question": "Apa peran guru dalam membimbing dan mengajar siswa di SMA?",
+      "question": "Apakah seorang guru di tingkat SMK diwajibkan untuk memiliki kualifikasi pendidikan tertentu?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMK"
     },
     {
-      "question": "Bagaimana cara guru menghadapi tantangan dalam mengajar di SMA?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Bagaimana cara mengumpulkan tugas yang diberikan oleh guru di sekolah dasar?",
+      "role": "murid",
+      "tingkat": "SD"
     },
     {
-      "question": "Apa yang dibutuhkan agar menjadi guru yang sukses di SMA?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apa yang seharusnya dilakukan jika terlambat masuk sekolah di tingkat SMP?",
+      "role": "murid",
+      "tingkat": "SMP"
     },
     {
-      "question": "Bagaimana guru di SMA dapat memotivasi siswa untuk belajar?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apa yang harus dilakukan jika ingin meraih kesuksesan sebagai murid di tingkat SMA?",
+      "role": "murid",
+      "tingkat": "SMA"
     },
     {
-      "question": "Apa yang harus dilakukan guru jika ada konflik antara siswa di kelas?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apakah ada kewajiban khusus yang harus dipenuhi oleh seorang murid di tingkat SMK?",
+      "role": "murid",
+      "tingkat": "SMK"
     },
     {
-      "question": "Bagaimana guru di SMA dapat membantu siswa yang mengalami kesulitan belajar?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Bagaimana cara admin mengatur jadwal pelajaran online bagi siswa?",
+      "role": "admin",
+      "tingkat": null
     },
     {
-      "question": "Apa strategi efektif yang biasa digunakan guru di SMA dalam mengajar?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apa tugas dan tanggung jawab seorang Kepala Sekolah (Kepsek)?",
+      "role": "kepsek",
+      "tingkat": null
     },
     {
-      "question": "Apa yang harus dilakukan guru jika ada siswa yang mengalami perilaku menyimpang di sekolah?",
+      "question": "Bagaimana cara guru SD dapat meningkatkan keterlibatan siswa dalam proses pembelajaran?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SD"
     },
     {
-      "question": "Bagaimana guru di SMA dapat berkolaborasi dengan orang tua siswa?",
+      "question": "Apa persyaratan yang harus dipenuhi untuk menjadi seorang guru di tingkat SMP?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMP"
     },
     {
-      "question": "Apa yang perlu dipersiapkan seorang guru sebelum memulai karir mengajar di SMA?",
+      "question": "Bagaimana saya bisa meningkatkan kualitas pembelajaran di kelas saya sebagai seorang guru SMA?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMA"
     },
     {
-      "question": "Bagaimana guru di SMA dapat menjaga disiplin di kelas?",
+      "question": "Apakah kualifikasi yang dibutuhkan untuk menjadi seorang guru di tingkat SMK?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SMK"
     },
     {
-      "question": "Bagaimana guru di SMA dapat memanfaatkan teknologi dalam proses belajar mengajar?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apakah boleh membawa makanan ringan ke sekolah?",
+      "role": "murid",
+      "tingkat": "SD"
     },
     {
-      "question": "Apa yang harus dilakukan guru jika merasa kesulitan mengajar suatu materi di kelas?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apakah ada penilaian akhir semester di tingkat SMP?",
+      "role": "murid",
+      "tingkat": "SMP"
     },
     {
-      "question": "Bagaimana guru di SMA dapat memberikan dukungan kepada siswa dalam menghadapi ujian?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apakah pelajaran tambahan di luar kurikulum sekolah penting bagi murid di tingkat SMA?",
+      "role": "murid",
+      "tingkat": "SMA"
     },
     {
-      "question": "Apa langkah-langkah yang harus diambil guru jika ada siswa yang terlibat dalam tindakan bullying?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apa persyaratan untuk menjadi anggota OSIS di SMK?",
+      "role": "murid",
+      "tingkat": "SMK"
     },
     {
-      "question": "Bagaimana guru di SMA dapat mengembangkan keterampilan kepemimpinan di kalangan siswa?",
-      "role": "guru",
-      "jenjang": "SMA"
+      "question": "Apakah tugas utama dari admin?",
+      "role": "admin",
+      "tingkat": null
     },
     {
-      "question": "Bagaimana seorang guru di SMA dapat menyeimbangkan antara tugas mengajar dan tugas administratif?",
+      "question": "Apa tanggung jawab utama seorang kepala sekolah?",
+      "role": "kepsek",
+      "tingkat": null
+    },
+    {
+      "question": "Bagaimana cara guru di tingkat SD dapat menciptakan lingkungan belajar yang menyenangkan dan efektif bagi siswa?",
       "role": "guru",
-      "jenjang": "SMA"
+      "tingkat": "SD"
+    },
+    {
+      "question": "Berapa jumlah minimal kualifikasi pendidikan yang diperlukan untuk menjadi seorang guru di tingkat SMP?",
+      "role": "guru",
+      "tingkat": "SMP"
+    },
+    {
+      "question": "Bagaimana saya dapat membantu siswa yang kesulitan memahami materi pelajaran?",
+      "role": "guru",
+      "tingkat": "SMA"
+    },
+    {
+      "question": "Apa syarat yang dibutuhkan untuk menjadi seorang guru di tingkat SMK?",
+      "role": "guru",
+      "tingkat": "SMK"
+    },
+    {
+      "question": "Berapa lama waktu yang sebaiknya dihabiskan untuk belajar setiap hari sebagai seorang murid SD?",
+      "role": "murid",
+      "tingkat": "SD"
+    },
+    {
+      "question": "Bagaimana cara agar dapat meningkatkan kemampuan belajar di SMP?",
+      "role": "murid",
+      "tingkat": "SMP"
+    },
+    {
+      "question": "Bagaimana cara mempersiapkan diri untuk ujian akhir semester di SMA?",
+      "role": "murid",
+      "tingkat": "SMA"
+    },
+    {
+      "question": "Bagaimana cara meraih kesuksesan dalam menjalani peran sebagai murid di tingkat SMK?",
+      "role": "murid",
+      "tingkat": "SMK"
+    },
+    {
+      "question": "Apa tugas utama dari seorang admin?",
+      "role": "admin",
+      "tingkat": null
+    },
+    {
+      "question": "Apa yang menjadi tujuan utama dari seorang guru di tingkat SD?",
+      "role": "guru",
+      "tingkat": "SD"
+    },
+    {
+      "question": "Apa yang menjadi tujuan utama dari seorang guru di tingkat SMP?",
+      "role": "guru",
+      "tingkat": "SMP"
+    },
+    {
+      "question": "Apa yang membuat Anda tertarik untuk menjadi seorang guru di tingkat SMA?",
+      "role": "guru",
+      "tingkat": "SMA"
+    },
+    {
+      "question": "Apa yang menjadi tujuan utama dari seorang guru di tingkat SMK?",
+      "role": "guru",
+      "tingkat": "SMK"
+    },
+    {
+      "question": "Apa aktivitas favoritmu di sekolah?",
+      "role": "murid",
+      "tingkat": "SD"
+    },
+    {
+      "question": "Apa yang menjadi hal terfavoritmu ketika menjadi murid di SMP?",
+      "role": "murid",
+      "tingkat": "SMP"
+    },
+    {
+      "question": "Apa rencanamu setelah lulus dari SMA?",
+      "role": "murid",
+      "tingkat": "SMA"
+    },
+    {
+      "question": "Apa yang menjadi motivasi utama Anda dalam belajar di SMK?",
+      "role": "murid",
+      "tingkat": "SMK"
+    },
+    {
+      "question": "Apa tanggung jawab utama seorang admin?",
+      "role": "admin",
+      "tingkat": null
+    },
+    {
+      "question": "Apa yang menjadi prioritas utama Anda sebagai kepala sekolah?",
+      "role": "kepsek",
+      "tingkat": null
     }
   ]
 }
